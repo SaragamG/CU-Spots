@@ -15,6 +15,3 @@ Instructions to run locally:
   - execute "docker compose up"
   - if all goes smoothly, enter: "http://localhost:3000/" into your browser
 
-How to run the tests:
-  - See PDF in milestone submissions
- 
